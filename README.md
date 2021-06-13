@@ -1,16 +1,13 @@
 <h1 align="center">Hello 🤗, I'm Abdurrahman</h1>
+<p align="center"> 
+<a href="#"> <img src="./Logos/Abdurrahman_Logo_320px.png" alt="Abdurrahman_ODABASI_Logo" width="128"/> </a>
+</p>
+<h3 align="center">A Computer Engineering student at</h3>
+<p align="center"> 
+<a href="https://tau.edu.tr/" target="_blank"> <img src="./Logos/taulogo1.png" alt="tau" width="256"/> </a>
+</p>
 
-<div style="display:flex; align-items:center; justify-content:center; flex-direction: column">
-    <img src="./Logos/Abdurrahman_Logo_320px.png" style="border-radius:50%; width:100px;"/>
-</div>
-<div style="display:flex; align-items:center; justify-content:center; flex-direction: column">
-    <h3 align="center">A Computer Engineering student at </h3>
-    <img src="./Logos/taulogo1.png" style="width:256px;"/>
-</div>
-
-<div style="display:flex; align-items:center; justify-content:center; width: 100%;">
-    <hr style="color: white; background-color: white; border-radius: 50%;width: 80%; padding: 0.05em 0; margin: 2em 0;" />
-</div>
+<hr/> 
 
 <p align="center" style="margin-top: 20px"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abodaotabashi&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Abdurrahman's Trophies" />
@@ -21,9 +18,7 @@
 
 - 🌌 I’m currently learning **React JS**
 
-<div style="display:flex; align-items:center; justify-content:center; width: 100%;">
-    <hr style="color: white; background-color: white; border-radius: 50%;width: 80%; padding: 0.05em 0; margin: 1em 0;" />
-</div>
+<hr/> 
 
 <h3 align="left">Connect with me:</h3>
 
@@ -31,9 +26,7 @@
 
 - <a href="mailto:odabasiabdurrahman@gmail.com" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Abdurrahman's Email" height="40" width="40" /></a>    **odabasiabdurrahman@gmail.com**
 
-<div style="display:flex; align-items:center; justify-content:center; width: 100%;">
-    <hr style="color: white; background-color: white; border-radius: 50%;width: 80%; padding: 0.05em 0; margin: 1em 0;" />
-</div>
+<hr/> 
 
 
 <h3 align="left">Technologies:</h3>
@@ -49,9 +42,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="55" height="50"/> </a>
 
-<div style="display:flex; align-items:center; justify-content:center; width: 100%;">
-    <hr style="color: white; background-color: white; border-radius: 50%;width: 80%; padding: 0.05em 0; margin: 1em 0;" />
-</div>
+<hr/> 
 
 <h3 align="left">Tools:</h3>
 <p align="center"> 
@@ -63,27 +54,21 @@
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="adobeps" width="50" height="50"/> </a>
 </p>
 
-<div style="display:flex; align-items:center; justify-content:center; width: 100%;">
-    <hr style="color: white; background-color: white; border-radius: 50%;width: 80%; padding: 0.05em 0; margin: 1em 0;" />
-</div>
+<hr/> 
 
 <div align="center">
 <h3 align="left">Most Used Languages:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abodaotabashi&show_icons=true&theme=synthwave&locale=en&langs_count=6&count_private=true&hide=pug&hide_title=true" alt="AbdurrahmanODABAŞI" width="40%"/></p>
 </div>
 
-<div style="display:flex; align-items:center; justify-content:center; width: 100%;">
-    <hr style="color: white; background-color: white; border-radius: 50%;width: 80%; padding: 0.05em 0; margin: 1em 0;" />
-</div>
+<hr/> 
 
 <div align="center">
 <h3 align="left">My GitHub Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abodaotabashi&show_icons=true&theme=synthwave&locale=en&count_private=true&hide=issues,prs" alt="AbdurrahmanODABAŞI" width="50%"/></p>
 </div>
 
-<div style="display:flex; align-items:center; justify-content:center; width: 100%;">
-    <hr style="color: white; background-color: white; border-radius: 50%;width: 80%; padding: 0.05em 0; margin: 1em 0;" />
-</div>
+<hr/> 
 
 <div align="center">
 <h3 align="left">My Last Repository:</h3>
