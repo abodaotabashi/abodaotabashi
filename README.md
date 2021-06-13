@@ -4,7 +4,7 @@
 </p>
 <h3 align="center">A Computer Engineering student at</h3>
 <p align="center"> 
-<a href="https://tau.edu.tr/" target="_blank"> <img src="./Logos/taulogo1.png" alt="tau" width="256"/> </a>
+<a href="http://www.tau.edu.tr/" target="_blank"> <img src="./Logos/taulogo1.png" alt="tau" width="256"/> </a>
 </p>
 
 <hr/> 
