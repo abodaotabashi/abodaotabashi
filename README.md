@@ -1,7 +1,7 @@
 <h1 align="center">Hello 🤗, I'm Abdurrahman</h1>
 <h3 align="center">A Computer Engineering student</h3>
 
-<p align="left"> 
+<p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abodaotabashi&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Abdurrahman's Trophies" />
 </a>
 </p>
@@ -17,7 +17,7 @@
 - <a href="mailto:odabasiabdurrahman@gmail.com" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Abdurrahman's Email" height="40" width="40" /></a>    **odabasiabdurrahman@gmail.com**
 
 <h3 align="left">Technologies:</h3>
-<p align="left"> 
+<p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
 <a href="https://www.python.org/" target="_blank"> <img src="https://camo.githubusercontent.com/888e388801f947dec7c3d843942c277af25fe2b1aed1821542c4e711f210312a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67" alt="python" width="50" height="50"/> </a> 
@@ -30,7 +30,7 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="55" height="50"/> </a>
 
 <h3 align="left">Tools:</h3>
-<p align="left"> 
+<p align="center"> 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="50" height="50"/> </a>
 <a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyter" width="50" height=50"/> </a>
 <a href="https://gluonhq.com/products/scene-builder/" target="_blank"> <img src="https://gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo-300x300@2x.png" alt="jupyter" width="50" height="50"/> </a>
@@ -39,17 +39,17 @@
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="adobeps" width="50" height="50"/> </a>
 </p>
 
-<div>
+<div align="center">
 <h3 align="left">Most Used Languages:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abodaotabashi&show_icons=true&theme=synthwave&locale=en&langs_count=6&count_private=true&hide=pug&hide_title=true" alt="AbdurrahmanODABAŞI" width="40%"/></p>
 </div>
 
-<div>
+<div align="center">
 <h3 align="left">My GitHub Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abodaotabashi&show_icons=true&theme=synthwave&locale=en&count_private=true&hide=issues,prs" alt="AbdurrahmanODABAŞI" width="50%"/></p>
 </div>
 
-<div>
-<h3 align="left">My Last Repository</h3>
+<div align="center">
+<h3 align="left">My Last Repository:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=abodaotabashi&theme=synthwave&repo=bookiew" alt="AbdurrahmanODABAŞI" width="50%"/></p>
 </div>
