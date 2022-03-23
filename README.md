@@ -24,7 +24,7 @@
 
 - <a href="https://linkedin.com/in/abdurrahmanodabaşı" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="Abdurrahman's Linkedin" height="40" width="40" /></a> <a href="https://linkedin.com/in/abdurrahmanodabaşı" target="blank">**@Abdurrahman ODABAŞI**</a>
 
-- <a href="mailto:odabasiabdurrahman@gmail.com" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Abdurrahman's Email" height="40" width="40" /></a>    **odabasiabdurrahman@gmail.com**
+- <a href="mailto:odabasiabdurrahman@gmail.com" target="blank"><img align="center" src="https://brandslogos.com/wp-content/uploads/images/gmail-icon-logo-vector.svg" alt="Abdurrahman's Email" height="40" width="40" /></a>    **odabasiabdurrahman@gmail.com**
 
 <hr/> 
 
