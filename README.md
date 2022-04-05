@@ -12,6 +12,11 @@
 <p align="center" style="margin-top: 20px"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abodaotabashi&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Abdurrahman's Trophies" />
 </a>
+  
+  <br/>
+  <br/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=abodaotabashi.visitor-badge&right_color=purple&left_text=My%20Profile%20Visitors" alt="visitor badge"/>
+
 </p>
 
 - 🌟 My Favourite Language is **Java**
