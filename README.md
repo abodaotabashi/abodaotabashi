@@ -82,5 +82,5 @@
 
 <div align="center">
 <h3 align="left">My Last Repository:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=abodaotabashi&theme=synthwave&repo=bookiew" alt="AbdurrahmanODABAŞI" width="50%"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=abodaotabashi&theme=synthwave&repo=tithenai" alt="AbdurrahmanODABAŞI" width="50%"/></p>
 </div>
