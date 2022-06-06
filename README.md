@@ -19,7 +19,7 @@
 
 </p>
 
-- 🌟 My Favourite Language is **Java**
+[//]: # (- 🌟 My Favourite Language is **Java**)
 
 - 🌌 I’m currently learning **React JS**
 
@@ -59,7 +59,7 @@
 <a href="https://developer.android.com/studio" target="_blank"> <img src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png" alt="androidstudio" width="50" height="50"/> </a>
 <a href="https://www.microsoft.com/en/microsoft-365/microsoft-office" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/480px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" alt="msoffice" width="50" height="50"/> </a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="adobeps" width="50" height="50"/> </a>
-<a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://developers.artificial-solutions.com/user/pages/13.resources/jira2.png" alt="jira" width="50" height="50"/> </a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://seeklogo.com/images/J/jira-logo-C71F8C0324-seeklogo.com.png" alt="jira" width="46" height="46"/> </a>
 </p>
 
   
