@@ -2,11 +2,17 @@
 <p align="center"> 
 <a href="#"> <img src="./Logos/Abdurrahman_Logo_320px.png" alt="Abdurrahman_ODABASI_Logo" width="128"/> </a>
 </p>
-<h3 align="center">A Computer Engineering student at</h3>
+<h3 align="center">A Computer Engineer, Data Scientist, Researcher</h3>
+
+<!--
+<h3 align="center"> 
+Turkish-German University
+</h3>
+
 <p align="center"> 
 <a href="http://www.tau.edu.tr/" target="_blank"> <img src="./Logos/taulogo1.png" alt="tau" width="256"/> </a>
 </p>
-
+-->
 <hr/> 
 
 <p align="center" style="margin-top: 20px"> 
@@ -21,13 +27,14 @@
 
 [//]: # (- 🌟 My Favourite Language is **Java**)
 
-- 🌌 I’m currently learning **React JS**
+- 📚 MSc. Student at **Turkish-German University**
+- 🌌 I’m currently learning **Advanced Concepts in Neural Networks & Deep Learning**
 
 <hr/> 
 
 <h3 align="left">Connect with me:</h3>
 
-- <a href="https://linkedin.com/in/abdurrahmanodabaşı" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="Abdurrahman's Linkedin" height="40" width="40" /></a> <a href="https://linkedin.com/in/abdurrahmanodabaşı" target="blank">**@Abdurrahman ODABAŞI**</a>
+- <a href="https://linkedin.com/in/abdurrahmanodabaşı" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="Abdurrahman's Linkedin" height="40" width="40" /></a> <a href="https://linkedin.com/in/abdurrahmanodabaşı" target="blank">**@Abdurrahman ODABAŞI**</a>
 
 - <a href="mailto:odabasiabdurrahman@gmail.com" target="blank"><img align="center" src="https://brandslogos.com/wp-content/uploads/images/gmail-icon-logo-vector.svg" alt="Abdurrahman's Email" height="40" width="40" /></a>    **odabasiabdurrahman@gmail.com**
 
@@ -46,8 +53,13 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="55" height="50"/> </a>
-<a href="https://mui.com/" target="_blank"> <img src="https://images.tute.io/tute/topic/material-ui.png" alt="material ui" width="55"/> </a>
-  
+<a href="https://mui.com/" target="_blank"> <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="material ui" width="55"/> </a>
+<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="tensorflow" width="50" height="50"/> </a>
+<a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="keras" width="50" height="50"/> </a>
+<a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="SciKit-Learn" width="50"/> </a>
+<a href="https://opencv.org/" target="_blank"> <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" alt="OpenCV" width="50" height="50"/> </a>
+<a href="https://pytorch.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" alt="PyTorch" height="50"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions" target="_blank"> <img src="https://static.javatpoint.com/tutorial/regex/images/regex-tutorial.png" alt="Regular Expressions" width="50" height="50"/> </a>
 
 <hr/> 
 
@@ -58,7 +70,7 @@
 <a href="https://gluonhq.com/products/scene-builder/" target="_blank"> <img src="https://gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo-300x300@2x.png" alt="jupyter" width="50" height="50"/> </a>
 <a href="https://developer.android.com/studio" target="_blank"> <img src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png" alt="androidstudio" width="50" height="50"/> </a>
 <a href="https://www.microsoft.com/en/microsoft-365/microsoft-office" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/480px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" alt="msoffice" width="50" height="50"/> </a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="adobeps" width="50" height="50"/> </a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="adobeps" height="50" height="50"/> </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://seeklogo.com/images/J/jira-logo-C71F8C0324-seeklogo.com.png" alt="jira" width="46" height="46"/> </a>
 </p>
 
