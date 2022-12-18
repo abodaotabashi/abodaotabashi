@@ -88,6 +88,7 @@ Turkish-German University
 <div align="center">
 <h3 align="left">My GitHub Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abodaotabashi&show_icons=true&theme=synthwave&locale=en&count_private=true&hide=issues,prs" alt="AbdurrahmanODABAŞI" width="50%"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=abodaotabashi&theme=jolly&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="AbdurrahmanODABAŞI" width="50%"/></p>
 </div>
 
 <hr/> 
