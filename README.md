@@ -21,7 +21,8 @@ Turkish-German University
   
   <br/>
   <br/>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=abodaotabashi.visitor-badge&right_color=purple&left_text=My%20Profile%20Visitors" alt="visitor badge"/>
+  <!--<img src="https://visitor-badge.glitch.me/badge?page_id=abodaotabashi.visitor-badge&right_color=purple&left_text=My%20Profile%20Visitors" alt="visitor badge"/>-->
+  <img src="https://komarev.com/ghpvc/?username=abodaotabashi&label=Profile%20views&color=blueviolet&style=flat" alt="visitor badge"/>
 
 </p>
 
@@ -65,11 +66,11 @@ Turkish-German University
 
 <h3 align="left">Tools:</h3>
 <p align="center"> 
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="50" height="50"/> </a>
-<a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyter" width="50" height=50"/> </a>
-<a href="https://gluonhq.com/products/scene-builder/" target="_blank"> <img src="https://gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo-300x300@2x.png" alt="jupyter" width="50" height="50"/> </a>
-<a href="https://developer.android.com/studio" target="_blank"> <img src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png" alt="androidstudio" width="50" height="50"/> </a>
-<a href="https://www.microsoft.com/en/microsoft-365/microsoft-office" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/480px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" alt="msoffice" width="50" height="50"/> </a>
+<a style="text-decoration: none;" href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="50" height="50"/> </a>
+<a style="text-decoration: none;" href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyter" width="50" height=50"/> </a>
+<a style="text-decoration: none;" href="https://gluonhq.com/products/scene-builder/" target="_blank"> <img src="https://gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo-300x300@2x.png" alt="scenebuilder" width="50" height="50"/> </a>
+<a style="text-decoration: none;" href="https://developer.android.com/studio" target="_blank"> <img src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png" alt="androidstudio" width="50" height="50"/> </a>
+<a href="https://www.microsoft.com/en/microsoft-365/microsoft-office" target="_blank"> <img src="https://seeklogo.com/images/M/microsoft-office-logo-8B0EF31E09-seeklogo.com.png" alt="msoffice" height="50"/> </a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="adobeps" height="50" height="50"/> </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://seeklogo.com/images/J/jira-logo-C71F8C0324-seeklogo.com.png" alt="jira" width="46" height="46"/> </a>
 </p>
